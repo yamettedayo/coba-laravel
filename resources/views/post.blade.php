@@ -17,4 +17,4 @@
     
 <a href="/posts" class="d-block mt-3">Back To Posts</a>
 
-@endsection
+@endsection`
